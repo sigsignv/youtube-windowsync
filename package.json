@@ -1,8 +1,8 @@
 {
-  "name": "wxt-solid-starter",
-  "description": "manifest.json description",
+  "name": "youtube-windowsync",
+  "description": "Sync YouTube playback in multiple tabs and windows on your computer",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
