@@ -6,4 +6,5 @@ export default defineConfig({
   },
   modules: ["@wxt-dev/module-solid"],
   srcDir: "src",
+  imports: false,
 });

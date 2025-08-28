@@ -1,3 +1,5 @@
+import { defineContentScript } from "#imports";
+
 export default defineContentScript({
   matches: ["https://www.youtube.com/*"],
   runAt: "document_start",
